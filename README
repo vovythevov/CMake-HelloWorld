@@ -1,0 +1,6 @@
+Build Instructions for SauronHelloWorld
+
+Need: 
+
+CMake 2.6 at least. Can be found here: http://www.cmake.org/cmake/resources/software.html 
+C++ Compiler
